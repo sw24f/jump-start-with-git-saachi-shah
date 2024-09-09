@@ -2,11 +2,11 @@
 There are a lot of helpful Git and GitHub resources available.
 
 **In this article**
-- Using GitHub
-- Using Git
-- Online courses
-- Training
-- Community
+- [Using GitHub](##Using-GitHub)
+- [Using Git](##Using-Git)
+- [Online courses](##Online-Courses)
+- [Training](##Training)
+- [Community](##Community)
 
 ## Using GitHub
 Become better acquainted with GitHub through our ["Using GitHub"](https://docs.github.com/en/get-started/using-github) articles:
