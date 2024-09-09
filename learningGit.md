@@ -42,6 +42,6 @@ GitHub offers in-person classes taught by our highly-experienced educators. Cont
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see "GitHub Community Support."
 
 ## Personal Notes
-I am learning about GitHub, but still have questions. For instance:
+I am learning about GitHub, but I still have questions. For instance:
 - Where can I use the code 'git diff' to show differences between two commits?
 - How can I sync GitHub to Markdown?
