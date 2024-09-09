@@ -42,4 +42,4 @@ GitHub offers in-person classes taught by our highly-experienced educators. Cont
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see "GitHub Community Support."
 
 ## Personal Notes
-My name is Saachi Shah. I attend the University of Connecticut and study Statistics and Molecular Cell Biology. I will now try to create a branch.
+My name is Saachi Shah. I attend the University of Connecticut and study Statistics and Molecular Cell Biology.
