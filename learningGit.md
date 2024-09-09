@@ -1,5 +1,5 @@
 # Git and GitHub Learning Resources
-There are a lot of helpful Git and GitHub resources available.
+### There are a lot of helpful Git and GitHub resources available.
 
 **In this article**
 - [Using GitHub](##Using-GitHub)
